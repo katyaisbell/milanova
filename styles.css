@@ -56,8 +56,8 @@ span {
   position: fixed;
   width: 100%;
   padding: 0.5em;
-  display: flex;
-  justify-content: space-between;
+  /* display: flex; */
+  /* justify-content: space-between; */
 }
 
 .backdrop {
@@ -182,15 +182,14 @@ img {
   }
   .items {
     width: 100%;
-    bottom: 3em;
+    bottom: 1em;
   }
 
   .backdrop {
     width: 100%;
-    height: 90%;
-    background-size: cover;
+    height: 100%;
+
     background-position: top;
-    padding-bottom: 2rem;
   }
 
   .overlay {
@@ -204,5 +203,10 @@ img {
   .footer {
     font-size: xx-small;
     padding: 0.5em 4em;
+  }
+  .nav {
+    /* background-color: red; */
+    margin: 2em;
+    /* padding: 0; */
   }
 }
