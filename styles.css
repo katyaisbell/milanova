@@ -182,13 +182,15 @@ img {
   }
   .items {
     width: 100%;
-    bottom: 1em;
+    bottom: 3em;
   }
 
   .backdrop {
     width: 100%;
     height: 90%;
+    background-size: cover;
     background-position: top;
+    padding-bottom: 2rem;
   }
 
   .overlay {
