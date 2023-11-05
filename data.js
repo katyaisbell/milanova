@@ -3,21 +3,21 @@ const data = [
     itemName: "Newborn",
     itemCategory: "11/7",
     itemCopy:
-      "Mila was born on November 7, 2022 at 8:43am. Mila was supposed to  be born on the 8th but she  decided to choose her own birthday and came a day earlier. It was a huge surprise for all! Her delivery was fast and beautiful.",
+      "Mila was born on November 7, 2022 at 8:43am. Mila was supposed to be born on the 8th but she  decided to choose her own birthday and came a day earlier. It was a huge surprise for all! Her delivery was fast and beautiful.",
     itemImg: "./img/newborn-1.jpg",
   },
   {
     itemName: "1 Month",
     itemCategory: "One thing",
     itemCopy:
-      "Ollie was so excited to finally have a sibling. One night as his mom tucked him in bed, he said: Mom, I didn't know anything about babies before but one thing I knew when Mila was born is how much I love her. ",
+      "Ollie was so excited to finally have a sibling. One night as his mom tucked him in his bed, he said: Mom, I didn't know anything about babies before but one thing I knew when Mila was born is how much I love her. ",
     itemImg: "./img/1month-2.jpg",
   },
   {
     itemName: "2 Months",
     itemCategory: "The birth of a star",
     itemCopy:
-      "When Mila was born everything about her was perfect - she was strong, healthy and beautiful. When she opened her blue cosmic eyes and smiled with her dimples for the first time it was evident her middle name was meant to be 'Nova' - 'the birth of a star'.",
+      "When Mila was born everything about her was perfect - she was strong, healthy and beautiful. When she opened her blue cosmic eyes and smiled with her dimples for the first time, it was evident her middle name was meant to be 'Nova' - 'the birth of a star'.",
     itemImg: "./img/2months.jpg",
   },
   {

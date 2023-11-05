@@ -198,4 +198,7 @@ img {
   .item-details {
     flex-direction: column;
   }
+  .items {
+    padding: 0.5em 0;
+  }
 }
