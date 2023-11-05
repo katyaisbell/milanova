@@ -58,7 +58,7 @@ const data = [
     itemCategory: "First tooth, first word",
     itemCopy:
       "Lots of 'firsts' this month. Mila got her first tooth and her first word was: 'Ba-tha' aka 'brother'. She is good at making a whole sentence out of it.",
-    itemImg: "./img/8months.jpg",
+    itemImg: "./img/8months-1.jpg",
   },
   {
     itemName: "9 Months",
