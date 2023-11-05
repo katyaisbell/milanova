@@ -54,6 +54,7 @@ span {
   /* background-color: red; */
   margin: 2em;
   position: fixed;
+
   width: 100%;
   padding: 0.5em;
   /* display: flex; */
@@ -200,13 +201,13 @@ img {
   .item-details {
     flex-direction: column;
   }
-  .footer {
+  /* .footer {
     font-size: xx-small;
     padding: 0.5em 4em;
-  }
+  } */
   .nav {
     background-color: #d9c6b4;
-    margin: 2em;
+    /* margin: 2em; */
     /* padding: 0; */
   }
 }
