@@ -3,7 +3,7 @@ const data = [
     itemName: "Newborn",
     itemCategory: "11/7",
     itemCopy:
-      "Mila was born on November 7, 2022 at 8:43am. A doctor wanted her to  be born on the 8th but she  decided to choose her own birthday and came a day earlier. It was a huge surprise for all! Her delivery was fast and beautiful.",
+      "Mila was born on November 7, 2022 at 8:43am. Mila was supposed to  be born on the 8th but she  decided to choose her own birthday and came a day earlier. It was a huge surprise for all! Her delivery was fast and beautiful.",
     itemImg: "./img/newborn-1.jpg",
   },
   {
