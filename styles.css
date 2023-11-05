@@ -200,6 +200,7 @@ img {
     flex-direction: column;
   }
   .footer {
-    padding: 0.5em 1em;
+    font-size: xx-small;
+    padding: 0.5em 2em;
   }
 }
