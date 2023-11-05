@@ -61,11 +61,11 @@ span {
 }
 
 .backdrop {
-  height: 80vh;
+  height: 85vh;
   width: 100%;
-  background-image: url(img/banner.jpg);
+  /* background-image: url(img/banner.jpg); */
   background-size: cover;
-  background-position: center;
+  background-position: left;
 }
 
 .items {
@@ -187,11 +187,15 @@ img {
 
   .backdrop {
     width: 100h;
-    background-position: right;
+    background-position: bottom;
   }
 
   .overlay {
     width: 100%;
     height: 100vh;
+  }
+
+  .item-details {
+    flex-direction: column;
   }
 }
