@@ -49,10 +49,3 @@ document.addEventListener("click", (e) => {
 function isItem(target) {
   return target.closest(".item");
 }
-
-// const documentHeight = () => {
-//  const doc = document.documentElement
-//  doc.style.setProperty('--doc-height', `${window.innerHeight}px`)
-// }
-// window.addEventListener(‘resize’, documentHeight)
-// documentHeight()
