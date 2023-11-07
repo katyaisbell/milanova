@@ -77,7 +77,7 @@ span {
 .overlay {
   position: absolute;
 
-  bottom: -1200px;
+  /* bottom: -1200px; */
   right: 0;
   width: 70%;
   height: 700px;
@@ -92,6 +92,14 @@ span {
   will-change: bottom;
   transform: translateZ(0) rotate(0deg);
   transform-origin: bottom center;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
 }
 
 .overlay::-webkit-scrollbar {
