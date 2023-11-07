@@ -4,14 +4,14 @@ const data = [
     itemCategory: "11/7",
     itemCopy:
       "Mila was born on November 7, 2022 at 8:43am. Mila was supposed to be born on the 8th but she  decided to choose her own birthday and came a day earlier. It was a huge surprise for all! Her delivery was fast and beautiful.",
-    itemImg: "./img/newborn-1.jpg",
+    itemImg: "./img/newborn.jpg",
   },
   {
     itemName: "1 Month",
     itemCategory: "One thing",
     itemCopy:
       "Ollie was so excited to finally have a sibling. One night as his mom tucked him in his bed, he said: Mom, I didn't know anything about babies before but one thing I knew when Mila was born is how much I love her. ",
-    itemImg: "./img/1month-2.jpg",
+    itemImg: "./img/1month.jpg",
   },
   {
     itemName: "2 Months",
@@ -58,12 +58,12 @@ const data = [
     itemCategory: "First tooth, first word",
     itemCopy:
       "Lots of 'firsts' this month. Mila got her first tooth and her first word was: 'Ba-tha' aka 'brother'. She is good at making a whole sentence out of it.",
-    itemImg: "./img/8months-1.jpg",
+    itemImg: "./img/8months.jpg",
   },
   {
     itemName: "9 Months",
     itemCategory: "Crawling",
-    itemCopy: "Mila started to crawl and get into things. Oh boy!",
+    itemCopy: "Mila started to crawl and got into yoga. Oh boy!",
     itemImg: "./img/9months.jpg",
   },
   {
