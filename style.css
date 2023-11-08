@@ -31,7 +31,7 @@ h1 {
 
 span {
   font-family: "Josefin Sans", sans-serif;
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: 600;
   color: #96704e;
 }
@@ -48,7 +48,7 @@ span {
 
 .nav {
   position: absolute;
-  top: 2rem;
+  top: 3rem;
   left: 2rem;
 }
 
