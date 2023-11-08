@@ -48,7 +48,6 @@ span {
 
 .nav {
   position: absolute;
-
   top: 4rem;
   left: 4rem;
 }
@@ -94,17 +93,9 @@ span {
   transform-origin: bottom center;
 }
 
-/* .show {
-  display: block;
+.overlay::-webkit-scrollbar {
+  display: none;
 }
-
-.hide {
-  display: none;
-} */
-
-/* .overlay::-webkit-scrollbar {
-  display: none;
-} */
 
 .img-container {
   width: 100%;
