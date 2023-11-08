@@ -77,7 +77,7 @@ span {
 .overlay {
   position: absolute;
 
-  bottom: -1200px;
+  bottom: -3600px;
   right: 0;
   width: 70%;
   height: 700px;
@@ -94,17 +94,17 @@ span {
   transform-origin: bottom center;
 }
 
-.show {
+/* .show {
   display: block;
 }
 
 .hide {
   display: none;
-}
+} */
 
-.overlay::-webkit-scrollbar {
+/* .overlay::-webkit-scrollbar {
   display: none;
-}
+} */
 
 .img-container {
   width: 100%;
