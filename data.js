@@ -24,7 +24,7 @@ const data = [
     itemName: "3 Months",
     itemCategory: "Mila Bear",
     itemCopy:
-      "'Mila Bear' was Mila's nickname during the winter - she was so cuddly and cozy. When she wasn't hypernating after feeding with her mama, she was up in the mountains hanging out at the lodge and watching her family snowboarding.",
+      "'Mila Bear' was Mila's nickname during the winter - she was so cuddly and cozy. When she wasn't hibernating after feeding with her mama, she was up in the mountains hanging out at the lodge and watching her family snowboarding.",
     itemImg: "./img/3months.jpg",
   },
   {
