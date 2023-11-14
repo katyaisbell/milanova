@@ -38,9 +38,10 @@ span {
 
 .container {
   position: relative;
-  height: 90%;
+  /* height: 90%; */
+  height: 100%;
   width: 100%;
-  background-image: url(img/banner.jpg);
+  background-image: url(img/banner-3.jpg);
   background-size: cover;
   background-position: center;
   padding: 3rem;
@@ -152,6 +153,8 @@ img {
 
 @media (max-width: 800px) {
   .container {
+    height: 90%;
+    background-image: url(img/banner.jpg);
     background-size: cover;
   }
   .items {
